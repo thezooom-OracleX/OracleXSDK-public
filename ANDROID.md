@@ -1,12 +1,12 @@
 # OracleX SDK — Android 연동 가이드
 
-**SDK 버전: v1.6.4** | 최소 지원: API 21 (Android 5.0)
+**SDK 버전: v1.6.5** | 최소 지원: API 21 (Android 5.0)
 
 ---
 
 ## 1. SDK 설치
 
-[GitHub Releases](https://github.com/thezooom-OracleX/OracleXSDK-public/releases/latest)에서 `OracleXSDK.aar` 다운로드 후 `app/libs/`에 복사합니다.
+[GitHub Releases](https://github.com/thezooom-kr/OracleXSDK-public/releases/latest)에서 `OracleXSDK.aar` 다운로드 후 `app/libs/`에 복사합니다.
 
 ```kotlin
 // build.gradle.kts (app 모듈)
